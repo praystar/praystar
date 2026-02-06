@@ -43,7 +43,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
+
     
 </p>
