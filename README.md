@@ -10,13 +10,11 @@
 
 <!-- Illustration cards row -->
 
-### DEVELOPER
+## DEVELOPER
 
-**Open to work**
 
-</div>
 
----
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prayash-baruah-ba8a14277/">
@@ -36,7 +34,7 @@
   </a>
 </div>
 
----
+
 
 ## ◈ ABOUT
 
@@ -47,7 +45,7 @@ Currently learning  →  Machine Learning · System Design
 Location            →  India 🇮🇳 · Remote 🌐
 ```
 
----
+
 
 ## ◈ TECH STACK
 
@@ -84,7 +82,7 @@ Location            →  India 🇮🇳 · Remote 🌐
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
----
+
 
 ## ◈ GITHUB STATS
 
@@ -106,14 +104,7 @@ Location            →  India 🇮🇳 · Remote 🌐
   </tr>
 </table>
 
-</div>
 
----
-
-
-</div>
-
----
 
 <div align="center">
 
