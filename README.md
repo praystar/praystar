@@ -1,32 +1,11 @@
 <div align="center">
 
-<!-- Location & Contact -->
 
 <br/>
 
 # PRAYASH BARUAH
 
 <!-- Illustration cards row -->
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="64" alt="dev"/>
-      <br/><sub><b>Web Ext</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="64" alt="systems"/>
-      <br/><sub><b>Systems</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="64" alt="ml"/>
-      <br/><sub><b>ML / AI</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="64" alt="builder"/>
-      <br/><sub><b>Builder</b></sub>
-    </td>
-  </tr>
-</table>
 
 ### DEVELOPER & SYSTEMS ENTHUSIAST
 
@@ -36,6 +15,23 @@
 
 ---
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/prayash-baruah-ba8a14277/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/prayash_baruah">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:prayashpratimbaruah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/praystar">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
@@ -111,11 +107,6 @@ Location            →  India 🇮🇳 · Remote 🌐
 
 ---
 
-## ◈ TOP CONTRIBUTED REPOS
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=praystar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
