@@ -3,7 +3,7 @@
 
 <br/>
 
-# PRAYASH BARUAH
+# PRAYASH PRATIM BARUAH
 
 <!-- Illustration cards row -->
 
