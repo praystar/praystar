@@ -7,9 +7,9 @@
 
 <!-- Illustration cards row -->
 
-### DEVELOPER & SYSTEMS ENTHUSIAST
+### DEVELOPER
 
-🟢 **open to work**
+**Open to work**
 
 </div>
 
