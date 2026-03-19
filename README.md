@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Location & Contact -->
-<sub> prayashpratimbaruah@gmail.com</sub>
 
 <br/>
 
@@ -37,23 +36,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/prayash-baruah-ba8a14277/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/prayash_baruah">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:prayashpratimbaruah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/praystar">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
