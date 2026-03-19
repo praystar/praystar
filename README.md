@@ -1,7 +1,7 @@
 <div align="center">
 
   <div align="center">
-  <img src="./cyberpunktheme.gif" width="1000" height="200" alt="Cyberpunk City"/>
+  <img src="./cyberpunktheme.gif" width="1200" height="220" alt="Cyberpunk City"/>
 </div>
 
 <br/>
