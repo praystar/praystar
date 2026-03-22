@@ -10,7 +10,7 @@
 
 <!-- Illustration cards row -->
 
-## DEVELOPER
+### DEVELOPER
 
 
 
@@ -36,18 +36,18 @@
 
 
 
-## ◈ ABOUT
+### ◈ ABOUT
 
 ```
 Currently building  →  Web Extensions (browser-native tooling)
 Deep interest       →  Low-level systems, memory, concurrency (Rust 🦀)
 Currently learning  →  Machine Learning · System Design
-Location            →  India 🇮🇳 · Remote 🌐
+
 ```
 
 
 
-## ◈ TECH STACK
+### ◈ TECH STACK
 
 **Languages**
 
@@ -84,7 +84,7 @@ Location            →  India 🇮🇳 · Remote 🌐
 
 
 
-## ◈ GITHUB STATS
+### ◈ GITHUB STATS
 
 <div align="center">
 
