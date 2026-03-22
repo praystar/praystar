@@ -1,7 +1,7 @@
 <div align="center">
 
   <div align="center">
-  <img src="./cyberpunktheme.gif" width="1400" height="220" alt="Cyberpunk City"/>
+  <img src="./cyberpunktheme.gif" width="1400" height="240" alt="Cyberpunk City"/>
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 
 <!-- Illustration cards row -->
 
-### DEVELOPER
+
 
 
 
