@@ -98,9 +98,7 @@ Currently learning  →  Machine Learning · System Design
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=praystar&theme=dark&hide_border=true&ring=e8ff47&fire=47ffb2&currStreakLabel=e8ff47&sideLabels=aaaaaa&dates=555555&background=0d1117&stroke=222222" alt="Streak Stats"/>
-    </td>
+    
   </tr>
 </table>
 
